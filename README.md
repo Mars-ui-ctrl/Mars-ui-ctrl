@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Master 👋
 
-<!--
-**Mars-ui-ctrl/Mars-ui-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about web development  
+🎯 Learning JavaScript, HTML, CSS  
+🛠️ Currently building small frontend projects  
+📈 Aiming to become a full-stack developer
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML5, CSS3, JavaScript
+- Git & GitHub
+- Responsive Web Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+
+### 🔢 Calculator  
+[Repo](https://github.com/Mars-ui-ctrl/Calculator) · [Live Demo](https://mars-ui-ctrl.github.io/Calculator)
+
+### 🐍 Snake Game  
+[Repo](https://github.com/Mars-ui-ctrl/Snake-game) · [Live Demo](https://mars-ui-ctrl.github.io/Snake-game)
+
+## 📊 GitHub Stats
+
+![Master's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mars-ui-ctrl&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mars-ui-ctrl&layout=compact&theme=tokyonight)
