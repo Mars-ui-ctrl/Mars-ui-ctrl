@@ -22,7 +22,7 @@
 [Repo](https://github.com/Mars-ui-ctrl/Notes-Maker-App) · [Live Demo](https://mars-ui-ctrl.github.io/Notes-Maker-App)
 
 ### 🌐 Zentry Clone  
-[Repo](https://github.com/Mars-ui-ctrl/Zentry-Website---clone) · [Live Demo](https://mars-ui-ctrl.github.io/Zentry-Website---clone)
+[Repo](https://github.com/Mars-ui-ctrl/Zentry-Website---clone) · [Live Demo](https://mars-ui-ctrl.github.io/Zentry-Website---Clone/)
 
 
 ## 📊 GitHub Stats
