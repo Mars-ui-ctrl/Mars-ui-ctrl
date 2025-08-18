@@ -24,6 +24,9 @@
 ### 🌐 Zentry Clone  
 [Repo](https://github.com/Mars-ui-ctrl/Zentry-Website---clone) · [Live Demo](https://mars-ui-ctrl.github.io/Zentry-Website---Clone/)
 
+### 💬 Text to speech converter
+[Repo](https://github.com/Mars-ui-ctrl/Text-to-Speech-Generator) . [Live Demo](https://mars-ui-ctrl.github.io/Text-to-Speech-Generator-for-desktop/)
+
 
 ## 📊 GitHub Stats
 
