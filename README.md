@@ -19,7 +19,7 @@
 [Repo](https://github.com/Mars-ui-ctrl/Snake-game) · [Live Demo](https://mars-ui-ctrl.github.io/Snake-game)
 
 ### 📝 Notes App  
-[Repo](https://github.com/Mars-ui-ctrl/Notes-Maker-App) · [Live Demo](https://mars-ui-ctrl.github.io/Notes-Maker-App)
+[Repo](https://github.com/Mars-ui-ctrl/Notes-Maker-App) · [Live Demo](https://mars-ui-ctrl.github.io/Notes-Maker-App/)
 
 ### 🌐 Zentry Clone  
 [Repo](https://github.com/Mars-ui-ctrl/Zentry-Website---clone) · [Live Demo](https://mars-ui-ctrl.github.io/Zentry-Website---Clone/)
