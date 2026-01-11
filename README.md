@@ -1,4 +1,4 @@
-# Hi, I'm Master 👋
+# Hi, I'm Ranjan 👋
 
 💻 Passionate about web development  
 🎯 Learning JavaScript, HTML, CSS  
