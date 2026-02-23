@@ -1,14 +1,15 @@
-# Hi, I'm Ranjan 👋
+Ranjan here 👋  
+Aspiring full-stack web developer 🚀  
 
-💻 Passionate about web development  
-🎯 Learning JavaScript, HTML, CSS  
-🛠️ Currently building small frontend projects  
-📈 Aiming to become a full-stack developer
+Building frontend with HTML, CSS & JavaScript  
+Learning React, Next.js, Node.js & MongoDB  
+Focused on real-world projects and clean code  
 
-## 🔧 Skills
-- HTML5, CSS3, JavaScript
-- Git & GitHub
-- Responsive Web Design
+🔧 Tech Stack  
+• HTML5 | CSS3 | JavaScript  
+• Git & GitHub  
+• React • Next.js 
+• Node.js • MongoDB 
 
 ## 🌟 Featured Projects
 
