@@ -9,7 +9,9 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legends1649@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-252B48?style=for-the-badge&logo=web&logoColor=white)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) </div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-252B48?style=for-the-badge&logo=web&logoColor=white)](#) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) 
+</div>
 
 ---
 
@@ -51,10 +53,10 @@
 
 | Project | Description | Live Demo | Source Code |
 | :--- | :--- | :---: | :---: |
-| **your-personal-space** | your own diary, where you can write about your day | [🔗 Live](https://your-personal-space.netlify.app/) | [💻 Repo](#) |
-| **Full-Stack Dino Game** | Browser-based game featuring a global leaderboard and secure JWT-based user authentication. | [🔗 Live](https://dinogame-runner.netlify.app/) | [💻 Repo](#) |
-| **SnakeGame** | Survive as long as you can | [🔗 Live](https://snake-gamev2.netlify.app/) | [💻 Repo](#) |
-| **Zentry Clone** | Frontend clone project demonstrating modern UI/UX design implementation. | [🔗 Live](https://zentry-website-clone.netlify.app/) | [💻 Repo](#) |
+| **your-personal-space** | your own diary, where you can write about your day | [🔗 Live](https://your-personal-space.netlify.app/) | [💻 Repo](https://github.com/Mars-ui-ctrl/Personal-Diary) |
+| **Full-Stack Dino Game** | Browser-based game featuring a global leaderboard and secure JWT-based user authentication. | [🔗 Live](https://dinogame-runner.netlify.app/) | [💻 Repo](https://github.com/Mars-ui-ctrl/dino-game) |
+| **SnakeGame** | Survive as long as you can | [🔗 Live](https://snake-gamev2.netlify.app/) | [💻 Repo](https://github.com/Mars-ui-ctrl/-Snake-Game_v2) |
+| **Zentry Clone** | Frontend clone project demonstrating modern UI/UX design implementation. | [🔗 Live](https://zentry-website-clone.netlify.app/) | [💻 Repo](https://github.com/Mars-ui-ctrl/Zentry-Website---Clone) |
 
 <br/>
 
