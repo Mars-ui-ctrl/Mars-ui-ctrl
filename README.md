@@ -39,12 +39,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mars-ui-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ranjan's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mars-ui-ctrl&theme=tokyonight&hide_border=true&background=0D1117" alt="Ranjan's GitHub Streak" width="48%" />
+  <img src="https://gh-stats.com/api?username=Mars-ui-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ranjan's GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Mars-ui-ctrl&theme=tokyonight&hide_border=true&background=0D1117" alt="Ranjan's GitHub Streak" width="48%" />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mars-ui-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mars-ui-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 ---
